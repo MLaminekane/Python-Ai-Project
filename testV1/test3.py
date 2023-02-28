@@ -1,4 +1,4 @@
-API_KEY= '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'
+API_KEY= ''
 import openai
 import os
 os.environ['OPENAI_Key']=API_KEY
